@@ -9,6 +9,5 @@ class Message {
     required this.text,
     this.imageUrl,
     required this.fromWho
-  })
-
+  });
 }
