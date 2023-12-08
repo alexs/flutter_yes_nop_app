@@ -1,16 +1,20 @@
-# yes_no_app
+# Flutter Yes Nope App
 
-A new Flutter project.
+Flutter Application as Part of Training using Provider, Fetching Data from a Basic API (https://yesno.wtf/) through a PODO using Dio. This app receives a question and responds with an image and the answer 'Yes' or 'Nope,' simulating a chat.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Final result
 
-A few resources to get you started if this is your first Flutter project:
+This is the final result:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Final Screen example](finalAppResult.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## How to run
+
+Clone the repo and run: `flutter pub get` after that start emulator and run the main app.
+
+## Packages used
+
+Provider ^6.1.1
+
+Dio ^5.4.0
